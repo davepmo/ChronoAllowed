@@ -1,0 +1,3888 @@
+{
+    "pychrono.vehicle.ARTcar": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ARTcar_AutomaticTransmissionSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ARTcar_BrakeSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ARTcar_Chassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ARTcar_DoubleWishboneFront": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ARTcar_DoubleWishboneRear": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ARTcar_Driveline4WD": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ARTcar_EngineSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ARTcar_PitmanArm": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ARTcar_RigidTire": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_mesh",
+            "default": "False",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ARTcar_Vehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ARTcar_Wheel": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ARTcar_WheelLeft": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ARTcar_WheelRight": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.AutomaticTransmissionShafts": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.AutomaticTransmissionSimpleMap": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.BMW_E90": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.BMW_E90_AutomaticTransmissionSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.BMW_E90_BrakeShafts": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.BMW_E90_Chassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.BMW_E90_DoubleWishbone": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_tierod_bodies",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.BMW_E90_Driveline": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.BMW_E90_EngineSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.BMW_E90_FrontWheel": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.BMW_E90_MacPhersonStrut": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.BMW_E90_RearWheel": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.BMW_E90_Steering": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.BMW_E90_TMsimpleTireFront": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.BMW_E90_TMsimpleTireRear": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.BMW_E90_Vehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.Balancer": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.BodyState": [],
+    "pychrono.vehicle.BoxShape": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.BrakeShafts": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.BrakeSimple": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChAABB": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChAdaptiveSpeedController": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChAutomaticTransmission": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChAutomaticTransmissionShafts": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChAutomaticTransmissionSimpleMap": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChAxle": [],
+    "pychrono.vehicle.ChAxleList": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChBalancer": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChBezierCurve": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChBezierCurveTracker": [
+        {
+            "name": "path",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChBodyGeometry": [],
+    "pychrono.vehicle.ChBrake": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChBrakeShafts": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChBrakeSimple": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChChaseCamera": [
+        {
+            "name": "chassis",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChChassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChChassisConnector": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChChassisConnectorArticulated": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChChassisConnectorHitch": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChChassisConnectorTorsion": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChChassisRear": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChClosedLoopDriver": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChDataDriver": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChDoubleTrackWheel": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChDoubleWishbone": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChDoubleWishboneReduced": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChDriveline": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChDrivelineTV": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChDrivelineWV": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChDriver": [
+        {
+            "name": "vehicle",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChEngine": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChEngineShafts": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChEngineSimple": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChEngineSimpleMap": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChFialaTire": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChForceElementTire": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChGeometry": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChHendricksonPRIMAXX": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChIdler": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChIntAABB": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChInteractiveDriver": [
+        {
+            "name": "vehicle",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChLeafspringAxle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChMacPhersonStrut": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChManualTransmission": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChManualTransmissionShafts": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChMapData": [],
+    "pychrono.vehicle.ChMultiLink": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChPac02Tire": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChPac89Tire": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChPart": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChPatchList": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChPathFollowerACCDriver": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChPathFollowerDriver": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChPathFollowerDriverPP": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChPathFollowerDriverSR": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChPathFollowerDriverStanley": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChPathFollowerDriverXT": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChPathSteeringController": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChPathSteeringControllerPP": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChPathSteeringControllerSR": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChPathSteeringControllerStanley": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChPathSteeringControllerXT": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChPitmanArm": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChPitmanArmShafts": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChPowertrainAssembly": [
+        {
+            "name": "engine",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "transmission",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChRackPinion": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChRigidChassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChRigidChassisRear": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChRigidPinnedAxle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChRigidSuspension": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChRigidTire": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChRotaryArm": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChRotationalDamperSuspension": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSTRKeyboardHandlerIRR": [
+        {
+            "name": "app",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSemiTrailingArm": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChShaftsDriveline2WD": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChShaftsDriveline4WD": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSimpleDriveline": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSimpleDrivelineXWD": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSimpleTrackDriveline": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSingleTrackWheel": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSingleWishbone": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSolidAxle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSolidBellcrankThreeLinkAxle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSolidThreeLinkAxle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSpeedController": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChSpindle": [],
+    "pychrono.vehicle.ChSprocket": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSprocketBand": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSprocketDoublePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSprocketSinglePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSteering": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSteeringController": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSubchassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSuspension": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSuspensionTestRig": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSuspensionTestRigDataDriver": [
+        {
+            "name": "filename",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSuspensionTestRigDriver": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChSuspensionTestRigInteractiveDriver": [],
+    "pychrono.vehicle.ChSuspensionTestRigPlatform": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChSuspensionTestRigPushrod": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChSuspensionTestRigVisualSystemIRR": [],
+    "pychrono.vehicle.ChTMeasyTire": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTSDAGeometry": [],
+    "pychrono.vehicle.ChTerrain": [],
+    "pychrono.vehicle.ChThreeLinkIRS": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTire": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChToeBarLeafspringAxle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackAssembly": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackAssemblyBand": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackAssemblyBandANCF": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackAssemblyBandBushing": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackAssemblyDoublePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackAssemblySegmented": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackAssemblySinglePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackBrake": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackBrakeShafts": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackBrakeSimple": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackCollisionManager": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackContactManager": [],
+    "pychrono.vehicle.ChTrackCustomContact": [],
+    "pychrono.vehicle.ChTrackDrivelineBDS": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackShoe": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackShoeBand": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackShoeBandANCF": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackShoeBandBushing": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackShoeDoublePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackShoeSegmented": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackShoeSinglePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackSuspension": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackWheel": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackedVehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTrackedVehicleVisualSystemIrrlicht": [],
+    "pychrono.vehicle.ChTranslationalDamperSuspension": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTranslationalIdler": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChTransmission": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChVehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChVehicleVisualSystem": [],
+    "pychrono.vehicle.ChVehicleVisualSystemIrrlicht": [],
+    "pychrono.vehicle.ChWheel": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChWheelList": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChWheeledTrailer": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChWheeledVehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChWheeledVehicleVisualSystemIrrlicht": [],
+    "pychrono.vehicle.ChWorldFrame": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ChassisConnectorArticulated": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChassisConnectorHitch": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ChassisConnectorTorsion": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.CityBus": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.CityBus_AutomaticTransmissionSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.CityBus_BrakeShafts": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.CityBus_BrakeSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.CityBus_Chassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.CityBus_Driveline2WD": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.CityBus_EngineSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.CityBus_LeafspringAxle": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.CityBus_RackPinion": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.CityBus_RigidTire": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_mesh",
+            "default": "False",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.CityBus_RotaryArm": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.CityBus_SolidAxleFront": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.CityBus_SolidAxleRear": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.CityBus_TMeasyTire": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.CityBus_ToeBarLeafspringAxle": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.CityBus_Vehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.CityBus_Wheel": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ConeShape": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ContactData": [],
+    "pychrono.vehicle.ConvexHullsShape": [
+        {
+            "name": "filename",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "matID",
+            "default": "-1",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.CylinderShape": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.DoubleTrackWheel": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.DoubleWishbone": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.DoubleWishboneReduced": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.DriverInputs": [],
+    "pychrono.vehicle.EngineShafts": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.EngineSimple": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.EngineSimpleMap": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.Entry": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ExternalForceTorque": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.FEDA": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.FEDA_AutomaticTransmissionSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.FEDA_BrakeShafts": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.FEDA_BrakeSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.FEDA_Chassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.FEDA_DoubleWishboneFront": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "rideHeightMode",
+            "default": "2",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "damperMode",
+            "default": "1",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.FEDA_DoubleWishboneRear": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "rideHeightMode",
+            "default": "2",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "damperMode",
+            "default": "2",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.FEDA_Driveline4WD": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.FEDA_EngineSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.FEDA_Pac02Tire": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "pressure_level",
+            "default": "2",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.FEDA_PitmanArm": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.FEDA_RigidTire": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_mesh",
+            "default": "False",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.FEDA_Vehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.FEDA_Wheel": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.FialaTire": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.FlatTerrain": [
+        {
+            "name": "height",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "friction",
+            "default": "0.8",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.ForceRSDA": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ForceTSDA": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ForceTorque": [],
+    "pychrono.vehicle.FrictionFunctor": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.Gator_AutomaticTransmissionSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator_AutomaticTransmissionSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator_BrakeShafts": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator_BrakeSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator_Chassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.Gator_Driveline2WD": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator_EngineSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator_EngineSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator_RackPinion": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator_RigidSuspension": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator_RigidTire_Front": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_mesh",
+            "default": "False",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator_RigidTire_Rear": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_mesh",
+            "default": "False",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator_SimpleDriveline": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator_SingleWishbone": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator_TMeasyTire_Front": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator_TMeasyTire_Rear": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Gator_Vehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.Gator_Wheel": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_AutomaticTransmissionShafts": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_AutomaticTransmissionSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_BrakeShafts": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_BrakeSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_Chassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_DoubleWishboneFront": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_tierod_bodies",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_DoubleWishboneRear": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_tierod_bodies",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_DoubleWishboneReducedFront": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_DoubleWishboneReducedRear": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_Driveline2WD": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_Driveline4WD": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_EngineShafts": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_EngineSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_EngineSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_FialaTire": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_Full": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_Pac02Tire": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "pressure_level",
+            "default": "2",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_Pac89Tire": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_PitmanArm": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_RackPinion": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_Reduced": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_RigidTire": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_mesh",
+            "default": "False",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_SimpleDriveline": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_TMeasyTire": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_Vehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_VehicleFull": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_VehicleReduced": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.HMMWV_Wheel": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HeightFunctor": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.HendricksonPRIMAXX": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.Kraz": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.Kraz_tractor": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.Kraz_trailer": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.LeafspringAxle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.LineShape": [
+        {
+            "name": "pos",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "rot",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "line",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.M113_AutomaticTransmissionShafts": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_AutomaticTransmissionSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_AutomaticTransmissionSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_BrakeShafts": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_BrakeSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_Chassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.M113_DrivelineBDS": [],
+    "pychrono.vehicle.M113_EngineShafts": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_EngineSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_EngineSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_Idler": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "side",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_RoadWheel": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_RoadWheelLeft": [
+        {
+            "name": "index",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_RoadWheelRight": [
+        {
+            "name": "index",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_SimpleDriveline": [],
+    "pychrono.vehicle.M113_SprocketBand": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_SprocketBandLeft": [],
+    "pychrono.vehicle.M113_SprocketBandRight": [],
+    "pychrono.vehicle.M113_SprocketDoublePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_SprocketDoublePinLeft": [],
+    "pychrono.vehicle.M113_SprocketDoublePinRight": [],
+    "pychrono.vehicle.M113_SprocketSinglePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_SprocketSinglePinLeft": [],
+    "pychrono.vehicle.M113_SprocketSinglePinRight": [],
+    "pychrono.vehicle.M113_Suspension": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "side",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "index",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_bushings",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "has_shock",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_TrackAssemblyBandANCF": [
+        {
+            "name": "side",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "brake_type",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "element_type",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "constrain_curvature",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "num_elements_length",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "num_elements_width",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_suspension_bushings",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_TrackAssemblyBandBushing": [
+        {
+            "name": "side",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "brake_type",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_suspension_bushings",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_TrackAssemblyDoublePin": [
+        {
+            "name": "side",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "topology",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "brake_type",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_track_bushings",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_suspension_bushings",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_track_RSDA",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_TrackAssemblySinglePin": [
+        {
+            "name": "side",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "brake_type",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_track_bushings",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_suspension_bushings",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_track_RSDA",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_TrackShoeBandANCF": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "element_type",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "constrain_curvature",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "num_elements_length",
+            "default": "3",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "num_elements_width",
+            "default": "4",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_TrackShoeBandBushing": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_TrackShoeDoublePin": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "topology",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_TrackShoeSinglePin": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_Vehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.M113_Vehicle_BandANCF": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.M113_Vehicle_BandBushing": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.M113_Vehicle_DoublePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.M113_Vehicle_SinglePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.MAN_10t": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.MAN_10t_Chassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.MAN_10t_Front1Axle": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_10t_Front2Axle": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_10t_RotaryArm2": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_10t_Vehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t_AutomaticTransmissionSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t_AutomaticTransmissionSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t_BellcrankSolid3LinkAxle": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t_BrakeShafts": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t_BrakeSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t_Chassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t_EngineSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t_EngineSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t_RotaryArm": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t_SimpleDriveline": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t_SimpleDrivelineXWD": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t_Solid3LinkAxle": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t_TMeasyTire": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t_Vehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.MAN_5t_Wheel": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_7t": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.MAN_7t_AutomaticTransmissionSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_7t_AutomaticTransmissionSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_7t_Chassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.MAN_7t_EngineSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_7t_EngineSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MAN_7t_Vehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.MTV_Balancer": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.MacPhersonStrut": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ManualTransmissionShafts": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.MultiLink": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.NodeInfo": [],
+    "pychrono.vehicle.NormalFunctor": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Pac02Tire": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.Pac89Tire": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.Patch": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.PitmanArm": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.RackPinion": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.RigidChassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.RigidChassisRear": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.RigidTerrain": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.RigidTire": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.RotaryArm": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.RotationalDamperSuspension": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.SCMContactableData": [
+        {
+            "name": "area_ratio",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "Mohr_cohesion",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "Mohr_friction",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "Janosi_shear",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.SCMLoader": [
+        {
+            "name": "system",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "visualization_mesh",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.SCMTerrain": [
+        {
+            "name": "system",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "visualization_mesh",
+            "default": "True",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Sedan": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.Sedan_AutomaticTransmissionSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Sedan_BrakeShafts": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Sedan_BrakeSimple": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Sedan_Chassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.Sedan_DoubleWishbone": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Sedan_Driveline2WD": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Sedan_EngineSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Sedan_MultiLink": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Sedan_RigidTire": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_mesh",
+            "default": "False",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Sedan_TMeasyTire": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Sedan_Vehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.Sedan_Wheel": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.SegmentShape": [],
+    "pychrono.vehicle.SemiTrailingArm": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ShaftsDriveline2WD": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ShaftsDriveline4WD": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.SimpleDriveline": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.SimpleDrivelineXWD": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.SimpleTrackDriveline": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.SingleTrackWheel": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.SingleWishbone": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.SoilParametersCallback": [],
+    "pychrono.vehicle.SolidAxle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.SolidBellcrankThreeLinkAxle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.SolidThreeLinkAxle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.SphereShape": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.SpringShape": [
+        {
+            "name": "radius",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "resolution",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "turns",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.SprocketBand": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.SprocketDoublePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.SprocketSinglePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.SwigPyIterator": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        },
+        {
+            "name": "kwargs",
+            "default": null,
+            "kind": "VAR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.TMeasyTire": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TerrainForce": [],
+    "pychrono.vehicle.TerrainForces": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ThreeLinkIRS": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.ToeBarLeafspringAxle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TrackAssemblyBandANCF": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TrackAssemblyBandBushing": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TrackAssemblyDoublePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TrackAssemblySinglePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TrackBrakeShafts": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TrackBrakeSimple": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TrackDrivelineBDS": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TrackShoeBandANCF": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TrackShoeBandBushing": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TrackShoeDoublePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TrackShoeSinglePin": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TrackedVehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TranslationalDamperSuspension": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TranslationalIdler": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.TrimeshShape": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_AutomaticTransmissionSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_BrakeShaftsFront": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_BrakeShaftsRear": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_BrakeSimpleFront": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_BrakeSimpleRear": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_Chassis": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_Driveline2WD": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_Driveline4WD": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_EngineSimpleMap": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_LeafspringAxle": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_Pac02Tire": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "pressure_level",
+            "default": "2",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_RigidTire": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "use_mesh",
+            "default": "False",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_RotaryArm": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_TMeasyTireFront": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_TMeasyTireRear": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_ToeBarLeafspringAxle": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_Vehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.UAZBUS_Wheel": [
+        {
+            "name": "name",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.Wheel": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.WheelState": [],
+    "pychrono.vehicle.WheelStates": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.WheeledTrailer": [
+        {
+            "name": "system",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "filename",
+            "default": null,
+            "kind": "POSITIONAL_OR_KEYWORD"
+        },
+        {
+            "name": "create_tires",
+            "default": "True",
+            "kind": "POSITIONAL_OR_KEYWORD"
+        }
+    ],
+    "pychrono.vehicle.WheeledVehicle": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.dimension2du": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.vector_Entry": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.vector_double": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ],
+    "pychrono.vehicle.vector_int": [
+        {
+            "name": "args",
+            "default": null,
+            "kind": "VAR_POSITIONAL"
+        }
+    ]
+}
